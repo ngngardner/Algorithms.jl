@@ -12,3 +12,7 @@ help = "launch pluto server"
 [[env]]
 name = "JULIA_DEPOT_PATH"
 value = "./.julia_depot"
+
+[[env]]
+name = "JULIA_PROJECT"
+value = "."
