@@ -1,5 +1,5 @@
 {
-  description = "My julia2nix Env";
+  description = "Introduction to algorithms";
   inputs = {
     devshell-flake = { url = "github:numtide/devshell"; };
     nixpkgs = { url = "nixpkgs/release-21.05"; };
