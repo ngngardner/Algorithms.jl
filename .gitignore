@@ -1,0 +1,8 @@
+# julia
+.julia_depot
+
+# nix
+.direnv
+
+# custom
+.vscode
